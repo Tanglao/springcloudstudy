@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/configserver/configserver.iml" filepath="$PROJECT_DIR$/configserver/configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaservice/eurekaservice.iml" filepath="$PROJECT_DIR$/eurekaservice/eurekaservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise.iml" filepath="$PROJECT_DIR$/exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloservice/helloservice.iml" filepath="$PROJECT_DIR$/helloservice/helloservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloserviceapi/helloserviceapi.iml" filepath="$PROJECT_DIR$/helloserviceapi/helloserviceapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hellozuul/hellozuul.iml" filepath="$PROJECT_DIR$/hellozuul/hellozuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbonconsumer/ribbonconsumer.iml" filepath="$PROJECT_DIR$/ribbonconsumer/ribbonconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zipkin/zipkin.iml" filepath="$PROJECT_DIR$/zipkin/zipkin.iml" />
+    </modules>
+  </component>
+</project>
